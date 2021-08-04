@@ -1,2 +1,2 @@
-# assignments
-assignments for skill improvement
+# PySpark Basics
+Notebook will contains Pyspark tutorial.
